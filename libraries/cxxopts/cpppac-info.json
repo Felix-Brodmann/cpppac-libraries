@@ -1,5 +1,6 @@
 {
 	"name": "cxxopts",
+	"license": "MIT",
 	"version": "3.2.0",
 	"type": "header-only",
 	"cxx_standard": "17",
