@@ -7,5 +7,5 @@
 	"platforms": ["macos-arm64"],
 	"dependencies": {
 		"macos-arm64": []
-  	},
+  	}
 }
