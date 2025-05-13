@@ -1,0 +1,9 @@
+{
+	"name": "nlohmann_json",
+	"version": "3.12.0",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependants": [],
+	"dependant_level": 0
+}
