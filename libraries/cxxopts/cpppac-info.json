@@ -1,0 +1,9 @@
+{
+	"name": "cxxopts",
+	"version": "3.2.0",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependants": [],
+	"dependant_level": 0
+}
