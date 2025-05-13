@@ -1,0 +1,6 @@
+{
+  "libraries": [
+    "nlohmann_json",
+    "cxxopts"
+  ]
+}
