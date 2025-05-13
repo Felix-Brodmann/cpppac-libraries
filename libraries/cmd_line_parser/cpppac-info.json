@@ -1,0 +1,11 @@
+{
+	"name": "cmd_line_parser",
+	"license": "MIT",
+	"version": "1.0.1",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "flags",
+	"license": "UNLICENSE",
+	"version": "1.1",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "args",
+	"license": "MIT",
+	"version": "3.10",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}

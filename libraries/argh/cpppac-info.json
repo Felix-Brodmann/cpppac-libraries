@@ -1,0 +1,11 @@
+{
+	"name": "argh",
+	"license": "BSD-3-Clause",
+	"version": "1.3.2",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}

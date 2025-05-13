@@ -1,0 +1,11 @@
+{
+	"name": "clipp",
+	"license": "MIT",
+	"version": "1.2.3",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}
