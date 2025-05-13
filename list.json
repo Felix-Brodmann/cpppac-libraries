@@ -1,6 +1,14 @@
 {
   "libraries": [
+    "argh",
+    "argparse",
+    "args",
+    "clipp",
+    "cmd_line_parser",
+    "cxxopts",
+    "fire_hpp",
+    "flags",
     "nlohmann_json",
-    "cxxopts"
+    "structopt"
   ]
 }
