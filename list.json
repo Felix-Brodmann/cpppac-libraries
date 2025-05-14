@@ -19,6 +19,7 @@
     "picobench",
     "structopt",
     "zlib",
+    "zstd",
     "zstr"
   ]
 }
