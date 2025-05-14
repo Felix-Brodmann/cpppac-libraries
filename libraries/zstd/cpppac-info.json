@@ -1,0 +1,11 @@
+{
+	"name": "zstd",
+	"license": "BSD",
+	"version": "1.5.7",
+	"type": "static",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}
