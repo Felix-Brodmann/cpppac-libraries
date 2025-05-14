@@ -1,0 +1,11 @@
+{
+	"name": "miniaudio",
+	"license": "UNLICENSE",
+	"version": "0.11.22",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}
