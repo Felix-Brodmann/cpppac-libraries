@@ -1,0 +1,11 @@
+{
+	"name": "zlib",
+	"license": "CUSTOM",
+	"version": "1.3.1",
+	"type": "static",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": []
+  	}
+}

@@ -1,0 +1,11 @@
+{
+	"name": "zstr",
+	"license": "MIT",
+	"version": "1.0.7",
+	"type": "header-only",
+	"cxx_standard": "17",
+	"platforms": ["macos-arm64"],
+	"dependencies": {
+		"macos-arm64": ["zlib"]
+  	}
+}
