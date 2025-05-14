@@ -5,10 +5,21 @@
     "args",
     "clipp",
     "cmd_line_parser",
+    "comms",
+    "criterion",
     "cxxopts",
     "fire_hpp",
     "flags",
+    "gzip_hpp",
+    "interpolative_coding",
+    "miniaudio",
+    
+    "minimp3",
+    "nanobench",
     "nlohmann_json",
-    "structopt"
+    "picobench",
+    "structopt",
+    "zlib",
+    "zstr"
   ]
 }
