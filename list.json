@@ -16,6 +16,7 @@
     "minimp3",
     "nanobench",
     "nlohmann_json",
+    "openssl",
     "picobench",
     "structopt",
     "zlib",
