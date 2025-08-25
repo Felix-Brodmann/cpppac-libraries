@@ -19,6 +19,7 @@
     "nlohmann_json",
     "openssl",
     "picobench",
+    "picounzip",
     "structopt",
     "zlib",
     "zstd",
