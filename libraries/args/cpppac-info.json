@@ -1,12 +1,19 @@
 {
-	"name": "args",
-	"license": "MIT",
-	"version": "3.10",
-	"type": "header-only",
-	"cxx_standard": "17",
-	"platforms": ["macos-arm64", "linux-arm64"],
-	"dependencies": {
-		"macos-arm64": [],
-		"linux-arm64": []
-  	}
+  "name": "args",
+  "license": "MIT",
+  "version": "3.10",
+  "type": "header-only",
+  "cxx_standard": "17",
+  "platforms": [
+    "macos-arm64",
+    "linux-arm64"
+  ],
+  "dependencies": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  },
+  "link": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  }
 }

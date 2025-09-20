@@ -1,11 +1,17 @@
 {
-	"name": "openssl",
-	"license": "APACHE-2.0",
-	"version": "3.5.0",
-	"type": "static",
-	"cxx_standard": "17",
-	"platforms": ["macos-arm64"],
-	"dependencies": {
-		"macos-arm64": []
-  	}
+  "name": "openssl",
+  "license": "APACHE-2.0",
+  "version": "3.5.0",
+  "type": "static",
+  "cxx_standard": "17",
+  "platforms": [
+    "macos-arm64"
+  ],
+  "dependencies": {
+    "macos-arm64": []
+  },
+  "link": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  }
 }

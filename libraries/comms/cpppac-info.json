@@ -1,12 +1,19 @@
 {
-	"name": "comms",
-	"license": "MPL-2.0",
-	"version": "5.4.2",
-	"type": "header-only",
-	"cxx_standard": "17",
-	"platforms": ["macos-arm64", "linux-arm64"],
-	"dependencies": {
-		"macos-arm64": [],
-		"linux-arm64": []
-  	}
+  "name": "comms",
+  "license": "MPL-2.0",
+  "version": "5.4.2",
+  "type": "header-only",
+  "cxx_standard": "17",
+  "platforms": [
+    "macos-arm64",
+    "linux-arm64"
+  ],
+  "dependencies": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  },
+  "link": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  }
 }

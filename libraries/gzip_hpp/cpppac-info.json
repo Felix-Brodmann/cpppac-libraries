@@ -1,12 +1,19 @@
 {
-	"name": "gzip_hpp",
-	"license": "BSD-2-Clause",
-	"version": "1.0.0",
-	"type": "header-only",
-	"cxx_standard": "17",
-	"platforms": ["macos-arm64", "linux-arm64"],
-	"dependencies": {
-		"macos-arm64": [],
-		"linux-arm64": []
-  	}
+  "name": "gzip_hpp",
+  "license": "BSD-2-Clause",
+  "version": "1.0.0",
+  "type": "header-only",
+  "cxx_standard": "17",
+  "platforms": [
+    "macos-arm64",
+    "linux-arm64"
+  ],
+  "dependencies": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  },
+  "link": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  }
 }

@@ -1,12 +1,19 @@
 {
-	"name": "argparse",
-	"license": "MIT",
-	"version": "3.2",
-	"type": "header-only",
-	"cxx_standard": "17",
-	"platforms": ["macos-arm64", "linux-arm64"],
-	"dependencies": {
-		"macos-arm64": [],
-		"linux-arm64": []
-  	}
+  "name": "argparse",
+  "license": "MIT",
+  "version": "3.2",
+  "type": "header-only",
+  "cxx_standard": "17",
+  "platforms": [
+    "macos-arm64",
+    "linux-arm64"
+  ],
+  "dependencies": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  },
+  "link": {
+    "macos-arm64": [],
+    "linux-arm64": []
+  }
 }
