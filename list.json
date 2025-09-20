@@ -9,6 +9,8 @@
     "criterion",
     "curl",
     "cxxopts",
+    "eigen",
+    "fenster",
     "fire_hpp",
     "flags",
     "gzip_hpp",
