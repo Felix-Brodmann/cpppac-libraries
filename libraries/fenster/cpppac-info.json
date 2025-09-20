@@ -1,7 +1,7 @@
 {
-	"name": "miniaudio",
-	"license": "UNLICENSE",
-	"version": "0.11.22",
+	"name": "fenster",
+	"license": "MIT",
+	"version": "0.1.0",
 	"type": "header-only",
 	"cxx_standard": "17",
 	"platforms": ["macos-arm64", "linux-arm64"],

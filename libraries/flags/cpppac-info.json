@@ -4,8 +4,9 @@
 	"version": "1.1",
 	"type": "header-only",
 	"cxx_standard": "17",
-	"platforms": ["macos-arm64"],
+	"platforms": ["macos-arm64", "linux-arm64"],
 	"dependencies": {
-		"macos-arm64": []
+		"macos-arm64": [],
+		"linux-arm64": []
   	}
 }
